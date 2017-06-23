@@ -1,8 +1,12 @@
 # Introduction
 
-## From https://github.com/micooz/docker-lnmp
-
 Deploy opencart-lnmp(Linux, Nginx, MySQL, PHP5) using docker.
+
+ubuntu 	16.04
+docker  17.04.0-ce
+docker-compose 1.13.0
+
+## Lnmp from https://github.com/micooz/docker-lnmp
 
 I want to share my ideas and designs about Web-Deploying using Docker with you.
 
