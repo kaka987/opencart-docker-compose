@@ -12,7 +12,7 @@ I want to share my ideas and designs about Web-Deploying using Docker with you.
 
 ### Architecture
 
-![architecture][1] 
+![architecture][1]  
 
 The whole app is divided into three Containers:
 
