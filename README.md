@@ -7,8 +7,11 @@ docker  17.04.0-ce
 docker-compose 1.13.0
 
 cd /opt/
+
 git clone https://github.com/kaka987/opencart-docker-compose.git
+
 cd opencart-docker-compose
+
 docker-compose up -d
 
 -> You need to check permission of some folders. or chmod -R 777 .
