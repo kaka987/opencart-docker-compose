@@ -1,5 +1,8 @@
 .idea/
-*.key
+*.key 
+
 *.pem
+
 *.crt
+
 *.csr

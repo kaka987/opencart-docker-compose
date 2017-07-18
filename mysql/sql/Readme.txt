@@ -1,0 +1,1 @@
+This is app's sql to init database.
